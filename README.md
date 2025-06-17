@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🌱 This is the [Aclab532](https://academic532.github.io/) from Shanghai Jiao Tong University under Prof. [Ning Li](https://scholar.google.com/citations?user=BOoVwkcAAAAJ&hl=en&oi=sra).
+- 🔭 We are interested in Artificial Intelligence, Robotics, and Intelligent Control and Optimization of Complex Systems.
 
 <!--
 **academic532/academic532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
